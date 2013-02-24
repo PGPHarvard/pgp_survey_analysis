@@ -1,0 +1,239 @@
+Stomach cancer	Cancers
+Colon cancer	Cancers
+Rectal cancer	Cancers
+Colon polyps	Cancers
+Pancreatic cancer	Cancers
+Lung cancer	Cancers
+Melanoma	Cancers
+Non-melanoma skin cancer	Cancers
+Lipoma	Cancers
+Breast cancer	Cancers
+Breast fibroadenoma	Cancers
+Cervical cancer	Cancers
+Endometrial cancer	Cancers
+Uterine fibroids	Cancers
+Ovarian cancer	Cancers
+Prostate cancer	Cancers
+Bladder cancer	Cancers
+Kidney cancer	Cancers
+Thyroid cancer	Cancers
+Non-Hodgkin lymphoma	Cancers
+Leukemia	Cancers
+Polycythemia vera	Cancers
+Essential thrombocythemia	Cancers
+Neurofibromatosis	Cancers
+Brain cancer	Cancers
+Thyroid nodule(s)	Endocrine,Metabolic,Nutritional,AndImmunity
+Graves' disease	Endocrine,Metabolic,Nutritional,AndImmunity
+Hypothyroidism	Endocrine,Metabolic,Nutritional,AndImmunity
+Hashimoto's thyroiditis	Endocrine,Metabolic,Nutritional,AndImmunity
+Diabetes mellitus, type 1	Endocrine,Metabolic,Nutritional,AndImmunity
+Diabetes mellitus, type 2	Endocrine,Metabolic,Nutritional,AndImmunity
+Primary hyperparathyroidism	Endocrine,Metabolic,Nutritional,AndImmunity
+Growth hormone deficiency	Endocrine,Metabolic,Nutritional,AndImmunity
+Polycystic ovary syndrome (PCOS)	Endocrine,Metabolic,Nutritional,AndImmunity
+Lactose intolerance	Endocrine,Metabolic,Nutritional,AndImmunity
+High cholesterol (hypercholesterolemia)	Endocrine,Metabolic,Nutritional,AndImmunity
+High triglycerides (hypertriglyceridemia)	Endocrine,Metabolic,Nutritional,AndImmunity
+Alpha 1-antitrypsin deficiency	Endocrine,Metabolic,Nutritional,AndImmunity
+Gout	Endocrine,Metabolic,Nutritional,AndImmunity
+Hemochromatosis	Endocrine,Metabolic,Nutritional,AndImmunity
+Cystic fibrosis	Endocrine,Metabolic,Nutritional,AndImmunity
+Porphyria	Endocrine,Metabolic,Nutritional,AndImmunity
+Gilbert syndrome	Endocrine,Metabolic,Nutritional,AndImmunity
+Iron deficiency anemia	Blood
+Pernicious anemia (a.k.a. "Addison-Biermer anemia")	Blood
+Folate deficiency anemia	Blood
+Hereditary spherocytosis	Blood
+G6PD deficiency	Blood
+Sickle cell trait (carrier)	Blood
+Sickle cell anemia	Blood
+Autoimmune hemolytic anemia	Blood
+Hemophilia	Blood
+Von Willebrand disease	Blood
+Idiopathic thrombocytopenic purpura (ITP)	Blood
+Hereditary thrombophilia (includes Factor V Leiden and Prothrombin G20210A)	Blood
+Other thrombophilia (includes antiphospholipid syndrome)	Blood
+Recurrent Sleep Paralysis	Nervous
+Parkinson's Disease	Nervous
+Essential tremor	Nervous
+Huntington's Disease	Nervous
+Restless Legs Syndrome	Nervous
+Spinal muscular atrophy	Nervous
+Amyotrophic lateral sclerosis (ALS)	Nervous
+Cluster headaches	Nervous
+Chronic tension headaches (15+ days per month, at least 6 months)	Nervous
+Multiple sclerosis (MS)	Nervous
+Cerebral palsy	Nervous
+Epilepsy	Nervous
+Migraine with aura	Nervous
+Migraine without aura	Nervous
+Narcolepsy	Nervous
+Arnold-Chiari malformation	Nervous
+Trigeminal neuralgia	Nervous
+Bell's palsy	Nervous
+Carpal tunnel syndrome	Nervous
+Hereditary motor and sensory neuropathy (includes Charcot-Marie-Tooth disease and HNPP)	Nervous
+Other peripheral neuropathy	Nervous
+Muscular dystrophy	Nervous
+Retinal detachment	VisionAndHearing
+Diabetic retinopathy	VisionAndHearing
+Hypertensive retinopathy	VisionAndHearing
+Central serous retinopathy	VisionAndHearing
+Age-related macular degeneration	VisionAndHearing
+Retinitis pigmentosa	VisionAndHearing
+Glaucoma	VisionAndHearing
+Infantile, juvenile, and presenile cataract	VisionAndHearing
+Age-related cataract	VisionAndHearing
+Traumatic cataract	VisionAndHearing
+Hyperopia (Farsightedness)	VisionAndHearing
+Myopia (Nearsightedness)	VisionAndHearing
+Astigmatism	VisionAndHearing
+Presbyopia	VisionAndHearing
+Color blindness	VisionAndHearing
+Keratoconus	VisionAndHearing
+Dry eye syndrome	VisionAndHearing
+Strabismus	VisionAndHearing
+Floaters	VisionAndHearing
+Congenital nystagmus	VisionAndHearing
+Meniere's disease	VisionAndHearing
+Otosclerosis	VisionAndHearing
+Age-related hearing loss	VisionAndHearing
+Tinnitus	VisionAndHearing
+Sensorineural hearing loss or congenital deafness	VisionAndHearing
+Hypertension	Circulatory
+Myocardial infarction (heart attack)	Circulatory
+Angina	Circulatory
+Pulmonary embolism	Circulatory
+Mitral valve prolapse	Circulatory
+Hypertrophic cardiomyopathy	Circulatory
+Dilated cardiomyopathy	Circulatory
+Restrictive cardiomyopathy	Circulatory
+Other cardiomyopathy (includes ARVD)	Circulatory
+Bundle branch block	Circulatory
+Wolff-Parkinson-White (WPW) Syndrome	Circulatory
+Long QT Syndrome	Circulatory
+Heart block	Circulatory
+Atrial fibrillation	Circulatory
+Premature ventricular contractions	Circulatory
+Sick sinus syndrome (includes tachy-brady syndrome)	Circulatory
+Cardiac arrhythmia	Circulatory
+Congestive heart failure	Circulatory
+Stroke	Circulatory
+Aortic aneurysm	Circulatory
+Other aneurysm	Circulatory
+Raynaud's phenomenon	Circulatory
+Kawasaki disease	Circulatory
+Hereditary hemorrhagic telangiectasia (also known as Osler-Weber-Rendu syndrome)	Circulatory
+Deep vein thrombosis (DVT)	Circulatory
+Varicose veins	Circulatory
+Hemorrhoids	Circulatory
+Varicocele	Circulatory
+Deviated septum	Respiratory
+Nasal polyps	Respiratory
+Chronic sinusitis	Respiratory
+Chronic/recurrent tonsillitis	Respiratory
+Allergic rhinitis (includes hay fever)	Respiratory
+Chronic bronchitis	Respiratory
+Emphysema	Respiratory
+Asthma	Respiratory
+Chronic Obstructive Pulmonary Disease (COPD)	Respiratory
+Impacted tooth	Digestive
+Dental cavities	Digestive
+Gingivitis	Digestive
+Temporomandibular joint (TMJ) disorder	Digestive
+Canker sores (oral ulcers)	Digestive
+Geographic tongue	Digestive
+Fissured tongue	Digestive
+Gastroesophageal Reflux Disease (GERD)	Digestive
+Barrett's esophagus	Digestive
+Peptic ulcer (stomach or duodenum)	Digestive
+Appendicitis	Digestive
+Inguinal hernia	Digestive
+Hiatal hernia	Digestive
+Crohn's disease	Digestive
+Ulcerative colitis	Digestive
+Diverticulosis	Digestive
+Irritable bowel syndrome (IBS)	Digestive
+Rectal prolapse	Digestive
+Acute liver failure	Digestive
+Chronic liver disease and cirrhosis	Digestive
+Nonalcoholic fatty liver disease (NAFLD)	Digestive
+Gallstones	Digestive
+Celiac disease	Digestive
+Kidney stone(s)	Genitourinary
+Acute kidney failure	Genitourinary
+Chronic kidney failure	Genitourinary
+Urinary tract infection (UTI)	Genitourinary
+Urethral diverticulum	Genitourinary
+Benign prostatic hypertrophy (BPH)	Genitourinary
+Male infertility	Genitourinary
+Peyronie's disease	Genitourinary
+Spermatocele	Genitourinary
+Fibrocystic breast disease	Genitourinary
+Bartholin's cyst	Genitourinary
+Endometriosis	Genitourinary
+Uterine prolapse	Genitourinary
+Ovarian cysts	Genitourinary
+Female infertility	Genitourinary
+Pilonidal cyst	SkinAndSubcutaneous
+Dandruff	SkinAndSubcutaneous
+Eczema	SkinAndSubcutaneous
+Allergic contact dermatitis	SkinAndSubcutaneous
+Rosacea	SkinAndSubcutaneous
+Psoriasis	SkinAndSubcutaneous
+Lichen planus	SkinAndSubcutaneous
+Keloids	SkinAndSubcutaneous
+Skin tags	SkinAndSubcutaneous
+Hair loss (includes female and male pattern baldness)	SkinAndSubcutaneous
+Alopecia areata	SkinAndSubcutaneous
+Hyperhidrosis (excessive sweating)	SkinAndSubcutaneous
+Hidradenitis suppurativa	SkinAndSubcutaneous
+Acne	SkinAndSubcutaneous
+Dermatographia	SkinAndSubcutaneous
+Cafe au lait spots	SkinAndSubcutaneous
+Systemic lupus erythematosus	MusculoskeletalSystemAndConnectiveTissue
+Sjogren's syndrome (Sicca syndrome)	MusculoskeletalSystemAndConnectiveTissue
+Rheumatoid arthritis	MusculoskeletalSystemAndConnectiveTissue
+Osteoarthritis	MusculoskeletalSystemAndConnectiveTissue
+Chondromalacia patella (CMP)	MusculoskeletalSystemAndConnectiveTissue
+Spinal stenosis	MusculoskeletalSystemAndConnectiveTissue
+Sciatica	MusculoskeletalSystemAndConnectiveTissue
+Frozen shoulder	MusculoskeletalSystemAndConnectiveTissue
+Rotator cuff tear	MusculoskeletalSystemAndConnectiveTissue
+Tennis elbow	MusculoskeletalSystemAndConnectiveTissue
+Achilles tendinitis	MusculoskeletalSystemAndConnectiveTissue
+Bone spurs	MusculoskeletalSystemAndConnectiveTissue
+Trigger finger	MusculoskeletalSystemAndConnectiveTissue
+Bunions	MusculoskeletalSystemAndConnectiveTissue
+Dupuytren's contracture	MusculoskeletalSystemAndConnectiveTissue
+Plantar fasciitis	MusculoskeletalSystemAndConnectiveTissue
+Fibromyalgia	MusculoskeletalSystemAndConnectiveTissue
+Scheuermann's kyphosis	MusculoskeletalSystemAndConnectiveTissue
+Osgood-Schlatter disease	MusculoskeletalSystemAndConnectiveTissue
+Osteoporosis	MusculoskeletalSystemAndConnectiveTissue
+Flatfeet (fallen arches)	MusculoskeletalSystemAndConnectiveTissue
+Postural kyphosis	MusculoskeletalSystemAndConnectiveTissue
+Scoliosis	MusculoskeletalSystemAndConnectiveTissue
+Spina bifida	CongenitalTraitsAndAnomalies
+Congenital ocular coloboma	CongenitalTraitsAndAnomalies
+Congenital heart defect	CongenitalTraitsAndAnomalies
+Cleft palate	CongenitalTraitsAndAnomalies
+Cleft uvula	CongenitalTraitsAndAnomalies
+Cleft lip	CongenitalTraitsAndAnomalies
+Tongue tie (ankyloglossia)	CongenitalTraitsAndAnomalies
+Bifid tongue (cleft tongue)	CongenitalTraitsAndAnomalies
+Infantile pyloric stenosis	CongenitalTraitsAndAnomalies
+Hirschsprung's disease	CongenitalTraitsAndAnomalies
+Hypospadias	CongenitalTraitsAndAnomalies
+Renal agenesis (missing kidney)	CongenitalTraitsAndAnomalies
+Polycystic kidney disease	CongenitalTraitsAndAnomalies
+Congenital hydronephrosis	CongenitalTraitsAndAnomalies
+Developmental dysplasia of the hip 	CongenitalTraitsAndAnomalies
+Congenital clubfoot (equinovarus)	CongenitalTraitsAndAnomalies
+Polydactyly	CongenitalTraitsAndAnomalies
+Syndactyly (webbing of digits)	CongenitalTraitsAndAnomalies
+Ehlers-Danlos syndrome	CongenitalTraitsAndAnomalies
+Ichthyosis vulgaris	CongenitalTraitsAndAnomalies
+Single transverse palmar crease (simian crease)	CongenitalTraitsAndAnomalies
+Marfan syndrome	CongenitalTraitsAndAnomalies
