@@ -13,7 +13,8 @@ import os
 import re
 
 
-TRAITS_FILE = 'PGP_trait_list.txt'
+this_dir = os.path.dirname(os.path.abspath(__file__))
+TRAITS_FILE = os.path.join(this_dir, 'PGP_trait_list.txt')
 
 
 def _latest_matching_file(regex_string, directory='.'):
