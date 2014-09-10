@@ -15,7 +15,7 @@ Following lines each lists:
 import re
 import pgp_survey
 
-SURVEYS_DIRECTORY = 'surveys_20130329'
+SURVEYS_DIRECTORY = 'surveys_20140910'
 
 # Input trait surveys and list of traits.
 trait_surveys, trait_survey_traits = pgp_survey.get_trait_surveys(SURVEYS_DIRECTORY)
