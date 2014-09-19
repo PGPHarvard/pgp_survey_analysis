@@ -6,7 +6,7 @@ Survey and all twelve Trait and Disease surveys.
 
 import pgp_survey
 
-SURVEYS_DIR = 'surveys_20140910'
+SURVEYS_DIR = 'surveys_20140919'
 
 # Input trait surveys and list of traits.
 trait_surveys, trait_survey_traits = pgp_survey.get_trait_surveys(SURVEYS_DIR)
