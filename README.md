@@ -7,21 +7,21 @@ Included in the **surveys_20140919** directory are copies of survey data from
 Sep 19 2014. You can upload new copies of these surveys from the PGP site.
 
 PGP Participant Survey:
-* https://my.personalgenomes.org/google_surveys/1
+* https://my.pgp-hms.org/google_surveys/1
 
 PGP Trait & Disease Surveys:
-* https://my.personalgenomes.org/google_surveys/6
-* https://my.personalgenomes.org/google_surveys/7
-* https://my.personalgenomes.org/google_surveys/8
-* https://my.personalgenomes.org/google_surveys/9
-* https://my.personalgenomes.org/google_surveys/10
-* https://my.personalgenomes.org/google_surveys/11
-* https://my.personalgenomes.org/google_surveys/12
-* https://my.personalgenomes.org/google_surveys/13
-* https://my.personalgenomes.org/google_surveys/14
-* https://my.personalgenomes.org/google_surveys/15
-* https://my.personalgenomes.org/google_surveys/16
-* https://my.personalgenomes.org/google_surveys/17
+* https://my.pgp-hms.org/google_surveys/6
+* https://my.pgp-hms.org/google_surveys/7
+* https://my.pgp-hms.org/google_surveys/8
+* https://my.pgp-hms.org/google_surveys/9
+* https://my.pgp-hms.org/google_surveys/10
+* https://my.pgp-hms.org/google_surveys/11
+* https://my.pgp-hms.org/google_surveys/12
+* https://my.pgp-hms.org/google_surveys/13
+* https://my.pgp-hms.org/google_surveys/14
+* https://my.pgp-hms.org/google_surveys/15
+* https://my.pgp-hms.org/google_surveys/16
+* https://my.pgp-hms.org/google_surveys/17
 
 Usage
 -----
